@@ -253,10 +253,10 @@ namespace Simple_Calculator_in_WindowsForms
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(444, 0);
+            this.pictureBox1.Location = new System.Drawing.Point(409, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(223, 130);
-            this.pictureBox1.TabIndex = 19;
+            this.pictureBox1.Size = new System.Drawing.Size(223, 114);
+            this.pictureBox1.TabIndex = 20;
             this.pictureBox1.TabStop = false;
             // 
             // Form1
@@ -264,7 +264,7 @@ namespace Simple_Calculator_in_WindowsForms
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGoldenrod;
-            this.ClientSize = new System.Drawing.Size(665, 424);
+            this.ClientSize = new System.Drawing.Size(630, 424);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button16);
